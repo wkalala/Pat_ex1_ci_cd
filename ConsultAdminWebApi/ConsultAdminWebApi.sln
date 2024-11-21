@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultAdminWebApi", "ConsultAdminWebApi.csproj", "{581A3B8D-D8DC-4ECD-BC4A-1040D24803AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581A3B8D-D8DC-4ECD-BC4A-1040D24803AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581A3B8D-D8DC-4ECD-BC4A-1040D24803AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581A3B8D-D8DC-4ECD-BC4A-1040D24803AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581A3B8D-D8DC-4ECD-BC4A-1040D24803AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B7F3E33-A53B-46F0-B20D-CC04663401C6}
+	EndGlobalSection
+EndGlobal
